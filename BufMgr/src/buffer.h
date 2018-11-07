@@ -13,7 +13,7 @@
 namespace badgerdb {
 
 /**
-* forward declaration of BufMgr class
+* forward declaration of BufMgr class 
 */
 class BufMgr;
 
@@ -74,14 +74,14 @@ class BufDesc {
   };
 
 	/**
-	 * Set values of member variables corresponding to assignment of frame to a page in the file. Called when a frame
+	 * Set values of member variables corresponding to assignment of frame to a page in the file. Called when a frame 
 	 * in buffer pool is allocated to any page in the file through readPage() or allocPage()
 	 *
 	 * @param filePtr	File object
 	 * @param pageNum	Page number in the file
 	 */
   void Set(File* filePtr, PageId pageNum)
-	{
+	{ 
 		file = filePtr;
     pageNo = pageNum;
     pinCnt = 1;
@@ -107,7 +107,7 @@ class BufDesc {
   }
 
 	/**
-   * Constructor of BufDesc class
+   * Constructor of BufDesc class 
 	 */
   BufDesc()
 	{
@@ -117,7 +117,7 @@ class BufDesc {
 
 
 /**
-* @brief Class to maintain statistics of buffer usage
+* @brief Class to maintain statistics of buffer usage 
 */
 struct BufStats
 {
@@ -137,15 +137,15 @@ struct BufStats
   int diskwrites;
 
 	/**
-   * Clear all values
+   * Clear all values 
 	 */
   void clear()
   {
 		accesses = diskreads = diskwrites = 0;
   }
-
+      
 	/**
-   * Constructor of BufStats class
+   * Constructor of BufStats class 
 	 */
   BufStats()
   {
@@ -155,9 +155,9 @@ struct BufStats
 
 
 /**
-* @brief The central class which manages the buffer pool including frame allocation and deallocation to pages in the file
+* @brief The central class which manages the buffer pool including frame allocation and deallocation to pages in the file 
 */
-class BufMgr
+class BufMgr 
 {
  private:
 	/**
@@ -169,7 +169,7 @@ class BufMgr
    * Number of frames in the buffer pool
 	 */
   std::uint32_t numBufs;
-
+	
 	/**
    * Hash table mapping (File, page) to frame
 	 */
@@ -181,7 +181,7 @@ class BufMgr
   BufDesc *bufDescTable;
 
 	/**
-   * Maintains Buffer pool usage statistics
+   * Maintains Buffer pool usage statistics 
 	 */
   BufStats bufStats;
 
@@ -191,7 +191,7 @@ class BufMgr
   void advanceClock();
 
 	/**
-	 * Allocate a free frame.
+	 * Allocate a free frame.  
 	 *
 	 * @param frame   	Frame reference, frame ID of allocated frame returned via this variable
 	 * @throws BufferExceededException If no such buffer is found which can be allocated
@@ -208,7 +208,7 @@ class BufMgr
    * Constructor of BufMgr class
 	 */
   BufMgr(std::uint32_t bufs);
-
+	
 	/**
    * Destructor of BufMgr class
 	 */
@@ -230,7 +230,7 @@ class BufMgr
 	 *
 	 * @param file   	File object
 	 * @param PageNo  Page number
-	 * @param dirty		True if the page to be unpinned needs to be marked dirty
+	 * @param dirty		True if the page to be unpinned needs to be marked dirty	
    * @throws  PageNotPinnedException If the page is not already pinned
 	 */
   void unPinPage(File* file, const PageId PageNo, const bool dirty);
@@ -243,7 +243,7 @@ class BufMgr
 	 * @param PageNo  Page number. The number assigned to the page in the file is returned via this reference.
 	 * @param page  	Reference to page pointer. The newly allocated in-memory Page object is returned via this reference.
 	 */
-  void allocPage(File* file, PageId &PageNo, Page*& page);
+  void allocPage(File* file, PageId &PageNo, Page*& page); 
 
 	/**
 	 * Writes out all dirty pages of the file to disk.
@@ -251,7 +251,7 @@ class BufMgr
 	 * Otherwise Error returned.
 	 *
 	 * @param file   	File object
-   * @throws  PagePinnedException If any page of the file is pinned in the buffer pool
+   * @throws  PagePinnedException If any page of the file is pinned in the buffer pool 
    * @throws BadBufferException If any frame allocated to the file is found to be invalid
 	 */
   void flushFile(const File* file);
@@ -266,7 +266,7 @@ class BufMgr
   void disposePage(File* file, const PageId PageNo);
 
 	/**
-   * Print member variable values.
+   * Print member variable values. 
 	 */
   void  printSelf();
 
@@ -281,7 +281,7 @@ class BufMgr
 	/**
    * Clear buffer pool usage statistics
 	 */
-  void clearBufStats()
+  void clearBufStats() 
   {
 		bufStats.clear();
   }
