@@ -47,7 +47,6 @@ BufMgr::~BufMgr() {
 //Move the hand of the clock to the next frame
 void BufMgr::advanceClock()
 {
-  //current index % bufs - 1
   clockHand = (clockHand + 1)%numBufs;
 }
 
@@ -67,10 +66,8 @@ void BufMgr::allocBuf(FrameId & frame)
 		BufDesc * currFrame = &bufDescTable[clockHand];
 		cout<<"Considering frame #"<< currFrame->frameNo <<endl;
 		if(clockHand == start){
-
 			count++;
 		}
-
 		//If we are at starting position, and all pages are
 		//pinned
 		if(count >= 2 && numPinnedPages == numBufs){
@@ -78,7 +75,6 @@ void BufMgr::allocBuf(FrameId & frame)
 			//Throw BufferExceededException
 			throw BufferExceededException();
 		}
-		//If after advancing, we come to start, increment counter
 
     //Check if valid bit is set
     if(currFrame->valid){
@@ -87,15 +83,16 @@ void BufMgr::allocBuf(FrameId & frame)
         //Clear the ref bit
         currFrame->refbit = false;
         continue;
-				cout << "Reference bit set, moving to next frame" << endl;
       }
-
+			//Referece bit was set to false, so we will pick this page is not
+			//pinned by any process
       if(currFrame->pinCnt > 0){
 				//cout<<"Frame still being used, moving to next frame" << endl;
 				numPinnedPages++;
         continue;
       }
-
+			//Finally, this frame was not referenced recently nor it is pinned, evict
+			//this page
       //Check if dirty bit is set
       if(currFrame->dirty){
         //Flush this particular page to disk
@@ -103,7 +100,6 @@ void BufMgr::allocBuf(FrameId & frame)
       }
 
     }
-
 
 		frame = currFrame->frameNo;
 		//cout << "Using frame " << frame << endl;
@@ -118,7 +114,6 @@ void BufMgr::allocBuf(FrameId & frame)
 		currFrame->Clear();
 		break; //Move out of this loop
   }
-  cout<<"Done finding empty frame ------" << endl;
 }
 
 
@@ -184,27 +179,25 @@ void BufMgr::flushFile(const File* file)
 {
 
 	//Check if this frame holds the page for this file
-	for(FrameId i = 0; i < numBufs; i++){
-		BufDesc frame = bufDescTable[i];
-		if(frame.file->filename() == file->filename()){
+	for(uint32_t i = 0; i < numBufs; i++){
+		BufDesc * frame = &bufDescTable[i];
+		if(frame->file->filename() == file->filename()){
 
-			if(frame.dirty){
-				frame.file->writePage(bufPool[frame.frameNo]);
-				frame.dirty = false;
+			if(frame->pinCnt > 0)
+			{
+				throw PagePinnedException(file->filename(), frame->pageNo, frame->frameNo);
 			}
-
+			if(!frame->valid)
+			{
+				throw BadBufferException(frame->frameNo, frame->dirty, frame->valid, frame->refbit);
+			}
+			if(frame->dirty){
+				frame->file->writePage(bufPool[frame->frameNo]);
+				frame->dirty = false;
+			}
 			//Remove this particular file, page # mapping from the hashmap
-			hashTable->remove(file, frame.pageNo);
-			frame.Clear();
-			if(frame.valid == false)
-			{
-				throw BadBufferException(frame.frameNo, frame.dirty, frame.valid, frame.refbit);
-			}
-			if(frame.pinCnt > 0)
-			{
-				throw PagePinnedException(file->filename(), frame.pageNo, frame.frameNo);
-			}
-
+			hashTable->remove(file, frame->pageNo);
+			frame->Clear();
 		}
 
 	}
@@ -222,12 +215,14 @@ void BufMgr::allocPage(File* file, PageId &pageNo, Page*& page)
 	bufPool[frameNo] = p;
 	pageNo = p.page_number();
 	hashTable->insert(file, pageNo, frameNo);
+	//Calling set will give this frame the details of this page that is being alloted
 	bufDescTable[frameNo].Set(file, pageNo);
 
 	cout << "Page number allocated is " << pageNo << endl;
 	cout << "----------------------" << endl;
 
 	//Return a pointer to that page
+
 	page = &bufPool[frameNo];
 }
 
