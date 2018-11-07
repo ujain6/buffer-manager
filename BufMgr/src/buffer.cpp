@@ -60,6 +60,7 @@ void BufMgr::allocBuf(FrameId & frame)
 	int start = (clockHand + 1)%numBufs;
 	int count = 0;
 	cout <<" Clock hand at the starting position " << start << endl;
+	int numPinnedPages = 0;
   while(true){
 
 		advanceClock();
@@ -70,7 +71,9 @@ void BufMgr::allocBuf(FrameId & frame)
 			count++;
 		}
 
-		if(count >= 2){
+		//If we are at starting position, and all pages are
+		//pinned
+		if(count >= 2 && numPinnedPages == numBufs){
 			cout<<" ******Clock hand at the starting position again*******" << start;
 			//Throw BufferExceededException
 			throw BufferExceededException();
@@ -89,6 +92,7 @@ void BufMgr::allocBuf(FrameId & frame)
 
       if(currFrame->pinCnt > 0){
 				//cout<<"Frame still being used, moving to next frame" << endl;
+				numPinnedPages++;
         continue;
       }
 
@@ -139,7 +143,7 @@ void BufMgr::readPage(File* file, const PageId pageNo, Page*& page)
 		Page p = file->readPage(pageNo);
 		hashTable->insert(file, pageNo, frameNo);
 		bufDescTable[frameNo].Set(file, pageNo);
-		page = &bufPool[frameNo];
+		bufPool[frameNo] = p;
 	}
 
 }
@@ -214,14 +218,17 @@ void BufMgr::allocPage(File* file, PageId &pageNo, Page*& page)
 	Page p = file->allocatePage();
 	allocBuf(frameNo);
 	cout << "Pinning new page to frame number " << frameNo << endl;
+	//Assign the corresponding page to the frameNo
 	bufPool[frameNo] = p;
-	hashTable->insert(file, p.page_number(), frameNo);
-	bufDescTable[frameNo].Set(file, p.page_number());
 	pageNo = p.page_number();
+	hashTable->insert(file, pageNo, frameNo);
+	bufDescTable[frameNo].Set(file, pageNo);
+
 	cout << "Page number allocated is " << pageNo << endl;
 	cout << "----------------------" << endl;
-	page = &bufPool[frameNo];
 
+	//Return a pointer to that page
+	page = &bufPool[frameNo];
 }
 
 void BufMgr::disposePage(File* file, const PageId PageNo)
