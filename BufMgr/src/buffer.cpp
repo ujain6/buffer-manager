@@ -69,9 +69,9 @@ void BufMgr::allocBuf(FrameId & frame)
   //Keep looking for an empty frame, if after a sweep, all pages in memory
 	//are pinned, throw the BufferExceededException
 	FrameId start = (clockHand + 1)%numBufs;
-	std::uint32_t count = 0;
+	int count = 0;
 	cout <<" Clock hand at the starting position " << start << endl;
-	int numPinnedPages = 0;
+	std::uint32_t numPinnedPages = 0;
   while(true){
 
 		advanceClock();
