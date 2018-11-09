@@ -706,6 +706,7 @@ Done finding empty frame ------
 Pinning new page to frame number 99
 Page number allocated is 100
 ----------------------
+Test 1 passed
 Trying to find empty frame ------
  Clock hand at the starting position 0
 Considering frame #0
@@ -809,6 +810,2188 @@ Considering frame #97
 Considering frame #98
 Considering frame #99
 Considering frame #0
- ******Clock hand at the starting position again*******0Test 5 passed
+ Kicking out test.1 , 1
+Done finding empty frame ------
+Pinning new page to frame number 0
+Page number allocated is 1
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 1
+Considering frame #1
+ Kicking out test.1 , 2
+Done finding empty frame ------
+Pinning new page to frame number 1
+Page number allocated is 1
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 2
+Considering frame #2
+ Kicking out test.1 , 3
+Done finding empty frame ------
+Pinning new page to frame number 2
+Page number allocated is 2
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 3
+Considering frame #3
+ Kicking out test.1 , 4
+Done finding empty frame ------
+Pinning new page to frame number 3
+Page number allocated is 2
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 4
+Considering frame #4
+ Kicking out test.1 , 5
+Done finding empty frame ------
+Pinning new page to frame number 4
+Page number allocated is 3
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 5
+Considering frame #5
+ Kicking out test.1 , 6
+Done finding empty frame ------
+Pinning new page to frame number 5
+Page number allocated is 3
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 6
+Considering frame #6
+ Kicking out test.1 , 7
+Done finding empty frame ------
+Pinning new page to frame number 6
+Page number allocated is 4
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 7
+Considering frame #7
+ Kicking out test.1 , 8
+Done finding empty frame ------
+Pinning new page to frame number 7
+Page number allocated is 4
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 8
+Considering frame #8
+ Kicking out test.1 , 9
+Done finding empty frame ------
+Pinning new page to frame number 8
+Page number allocated is 5
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 9
+Considering frame #9
+ Kicking out test.1 , 10
+Done finding empty frame ------
+Pinning new page to frame number 9
+Page number allocated is 5
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 10
+Considering frame #10
+ Kicking out test.1 , 11
+Done finding empty frame ------
+Pinning new page to frame number 10
+Page number allocated is 6
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 11
+Considering frame #11
+ Kicking out test.1 , 12
+Done finding empty frame ------
+Pinning new page to frame number 11
+Page number allocated is 6
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 12
+Considering frame #12
+ Kicking out test.1 , 13
+Done finding empty frame ------
+Pinning new page to frame number 12
+Page number allocated is 7
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 13
+Considering frame #13
+ Kicking out test.1 , 14
+Done finding empty frame ------
+Pinning new page to frame number 13
+Page number allocated is 7
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 14
+Considering frame #14
+ Kicking out test.1 , 15
+Done finding empty frame ------
+Pinning new page to frame number 14
+Page number allocated is 8
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 15
+Considering frame #15
+Considering frame #16
+ Kicking out test.1 , 17
+Done finding empty frame ------
+Pinning new page to frame number 16
+Page number allocated is 8
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 17
+Considering frame #17
+ Kicking out test.1 , 18
+Done finding empty frame ------
+Pinning new page to frame number 17
+Page number allocated is 9
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 18
+Considering frame #18
+ Kicking out test.1 , 19
+Done finding empty frame ------
+Pinning new page to frame number 18
+Page number allocated is 9
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 19
+Considering frame #19
+ Kicking out test.1 , 20
+Done finding empty frame ------
+Pinning new page to frame number 19
+Page number allocated is 10
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 20
+Considering frame #20
+ Kicking out test.1 , 21
+Done finding empty frame ------
+Pinning new page to frame number 20
+Page number allocated is 10
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 21
+Considering frame #21
+Considering frame #22
+ Kicking out test.1 , 23
+Done finding empty frame ------
+Pinning new page to frame number 22
+Page number allocated is 11
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 23
+Considering frame #23
+ Kicking out test.1 , 24
+Done finding empty frame ------
+Pinning new page to frame number 23
+Page number allocated is 11
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 24
+Considering frame #24
+ Kicking out test.1 , 25
+Done finding empty frame ------
+Pinning new page to frame number 24
+Page number allocated is 12
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 25
+Considering frame #25
+ Kicking out test.1 , 26
+Done finding empty frame ------
+Pinning new page to frame number 25
+Page number allocated is 12
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 26
+Considering frame #26
+ Kicking out test.1 , 27
+Done finding empty frame ------
+Pinning new page to frame number 26
+Page number allocated is 13
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 27
+Considering frame #27
+Considering frame #28
+ Kicking out test.1 , 29
+Done finding empty frame ------
+Pinning new page to frame number 28
+Page number allocated is 13
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 29
+Considering frame #29
+ Kicking out test.1 , 30
+Done finding empty frame ------
+Pinning new page to frame number 29
+Page number allocated is 14
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 30
+Considering frame #30
+ Kicking out test.1 , 31
+Done finding empty frame ------
+Pinning new page to frame number 30
+Page number allocated is 14
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 31
+Considering frame #31
+ Kicking out test.1 , 32
+Done finding empty frame ------
+Pinning new page to frame number 31
+Page number allocated is 15
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 32
+Considering frame #32
+ Kicking out test.1 , 33
+Done finding empty frame ------
+Pinning new page to frame number 32
+Page number allocated is 15
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 33
+Considering frame #33
+ Kicking out test.1 , 34
+Done finding empty frame ------
+Pinning new page to frame number 33
+Page number allocated is 16
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 34
+Considering frame #34
+ Kicking out test.1 , 35
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 35
+Considering frame #35
+Considering frame #36
+ Kicking out test.1 , 37
+Done finding empty frame ------
+Pinning new page to frame number 36
+Page number allocated is 16
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 37
+Considering frame #37
+ Kicking out test.1 , 38
+Done finding empty frame ------
+Pinning new page to frame number 37
+Page number allocated is 17
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 38
+Considering frame #38
+ Kicking out test.1 , 39
+Done finding empty frame ------
+Pinning new page to frame number 38
+Page number allocated is 17
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 39
+Considering frame #39
+ Kicking out test.1 , 40
+Done finding empty frame ------
+Pinning new page to frame number 39
+Page number allocated is 18
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 40
+Considering frame #40
+Considering frame #41
+ Kicking out test.1 , 42
+Done finding empty frame ------
+Pinning new page to frame number 41
+Page number allocated is 18
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 42
+Considering frame #42
+ Kicking out test.1 , 43
+Done finding empty frame ------
+Pinning new page to frame number 42
+Page number allocated is 19
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 43
+Considering frame #43
+ Kicking out test.1 , 44
+Done finding empty frame ------
+Pinning new page to frame number 43
+Page number allocated is 19
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 44
+Considering frame #44
+ Kicking out test.1 , 45
+Done finding empty frame ------
+Pinning new page to frame number 44
+Page number allocated is 20
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 45
+Considering frame #45
+ Kicking out test.1 , 46
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 46
+Considering frame #46
+ Kicking out test.1 , 47
+Done finding empty frame ------
+Pinning new page to frame number 46
+Page number allocated is 20
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 47
+Considering frame #47
+ Kicking out test.1 , 48
+Done finding empty frame ------
+Pinning new page to frame number 47
+Page number allocated is 21
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 48
+Considering frame #48
+ Kicking out test.1 , 49
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 49
+Considering frame #49
+Considering frame #50
+ Kicking out test.1 , 51
+Done finding empty frame ------
+Pinning new page to frame number 50
+Page number allocated is 21
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 51
+Considering frame #51
+ Kicking out test.1 , 52
+Done finding empty frame ------
+Pinning new page to frame number 51
+Page number allocated is 22
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 52
+Considering frame #52
+ Kicking out test.1 , 53
+Done finding empty frame ------
+Pinning new page to frame number 52
+Page number allocated is 22
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 53
+Considering frame #53
+ Kicking out test.1 , 54
+Done finding empty frame ------
+Pinning new page to frame number 53
+Page number allocated is 23
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 54
+Considering frame #54
+ Kicking out test.1 , 55
+Done finding empty frame ------
+Pinning new page to frame number 54
+Page number allocated is 23
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 55
+Considering frame #55
+ Kicking out test.1 , 56
+Done finding empty frame ------
+Pinning new page to frame number 55
+Page number allocated is 24
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 56
+Considering frame #56
+ Kicking out test.1 , 57
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 57
+Considering frame #57
+ Kicking out test.1 , 58
+Done finding empty frame ------
+Pinning new page to frame number 57
+Page number allocated is 24
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 58
+Considering frame #58
+ Kicking out test.1 , 59
+Done finding empty frame ------
+Pinning new page to frame number 58
+Page number allocated is 25
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 59
+Considering frame #59
+Considering frame #60
+ Kicking out test.1 , 61
+Done finding empty frame ------
+Pinning new page to frame number 60
+Page number allocated is 25
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 61
+Considering frame #61
+ Kicking out test.1 , 62
+Done finding empty frame ------
+Pinning new page to frame number 61
+Page number allocated is 26
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 62
+Considering frame #62
+Considering frame #63
+Considering frame #64
+ Kicking out test.1 , 65
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 65
+Considering frame #65
+ Kicking out test.1 , 66
+Done finding empty frame ------
+Pinning new page to frame number 65
+Page number allocated is 26
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 66
+Considering frame #66
+ Kicking out test.1 , 67
+Done finding empty frame ------
+Pinning new page to frame number 66
+Page number allocated is 27
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 67
+Considering frame #67
+Considering frame #68
+Considering frame #69
+ Kicking out test.1 , 70
+Done finding empty frame ------
+Pinning new page to frame number 69
+Page number allocated is 27
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 70
+Considering frame #70
+ Kicking out test.1 , 71
+Done finding empty frame ------
+Pinning new page to frame number 70
+Page number allocated is 28
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 71
+Considering frame #71
+ Kicking out test.1 , 72
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 72
+Considering frame #72
+Considering frame #73
+ Kicking out test.1 , 74
+Done finding empty frame ------
+Pinning new page to frame number 73
+Page number allocated is 28
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 74
+Considering frame #74
+ Kicking out test.1 , 75
+Done finding empty frame ------
+Pinning new page to frame number 74
+Page number allocated is 29
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 75
+Considering frame #75
+ Kicking out test.1 , 76
+Done finding empty frame ------
+Pinning new page to frame number 75
+Page number allocated is 29
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 76
+Considering frame #76
+ Kicking out test.1 , 77
+Done finding empty frame ------
+Pinning new page to frame number 76
+Page number allocated is 30
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 77
+Considering frame #77
+Considering frame #78
+ Kicking out test.1 , 79
+Done finding empty frame ------
+Pinning new page to frame number 78
+Page number allocated is 30
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 79
+Considering frame #79
+ Kicking out test.1 , 80
+Done finding empty frame ------
+Pinning new page to frame number 79
+Page number allocated is 31
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 80
+Considering frame #80
+ Kicking out test.1 , 81
+Done finding empty frame ------
+Pinning new page to frame number 80
+Page number allocated is 31
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 81
+Considering frame #81
+ Kicking out test.1 , 82
+Done finding empty frame ------
+Pinning new page to frame number 81
+Page number allocated is 32
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 82
+Considering frame #82
+Considering frame #83
+Considering frame #84
+ Kicking out test.1 , 85
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 85
+Considering frame #85
+ Kicking out test.1 , 86
+Done finding empty frame ------
+Pinning new page to frame number 85
+Page number allocated is 32
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 86
+Considering frame #86
+Considering frame #87
+ Kicking out test.1 , 88
+Done finding empty frame ------
+Pinning new page to frame number 87
+Page number allocated is 33
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 88
+Considering frame #88
+ Kicking out test.1 , 89
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 89
+Considering frame #89
+ Kicking out test.1 , 90
+Done finding empty frame ------
+Pinning new page to frame number 89
+Page number allocated is 33
+----------------------
+Error here
+Test 2 passed
+Trying to find empty frame ------
+ Clock hand at the starting position 90
+Considering frame #90
+Considering frame #91
+ Kicking out test.1 , 92
+Done finding empty frame ------
+Test 3 passed
+Trying to find empty frame ------
+ Clock hand at the starting position 92
+Considering frame #92
+Considering frame #93
+Considering frame #94
+ Kicking out test.1 , 95
+Done finding empty frame ------
+Pinning new page to frame number 94
+Page number allocated is 1
+----------------------
+Test 4 passed
+Trying to find empty frame ------
+ Clock hand at the starting position 95
+Considering frame #95
+ Kicking out test.1 , 96
+Done finding empty frame ------
+Pinning new page to frame number 95
+Page number allocated is 1
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 96
+Considering frame #96
+ Kicking out test.1 , 97
+Done finding empty frame ------
+Pinning new page to frame number 96
+Page number allocated is 2
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 97
+Considering frame #97
+ Kicking out test.1 , 98
+Done finding empty frame ------
+Pinning new page to frame number 97
+Page number allocated is 3
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 98
+Considering frame #98
+ Kicking out test.1 , 99
+Done finding empty frame ------
+Pinning new page to frame number 98
+Page number allocated is 4
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 99
+Considering frame #99
+ Kicking out test.1 , 100
+Done finding empty frame ------
+Pinning new page to frame number 99
+Page number allocated is 5
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 0
+Considering frame #0
+Considering frame #1
+Considering frame #2
+Considering frame #3
+Considering frame #4
+Considering frame #5
+Considering frame #6
+Considering frame #7
+Considering frame #8
+Considering frame #9
+Considering frame #10
+Considering frame #11
+Considering frame #12
+Considering frame #13
+Considering frame #14
+Considering frame #15
+ Kicking out test.1 , 16
+Done finding empty frame ------
+Pinning new page to frame number 15
+Page number allocated is 6
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 16
+Considering frame #16
+Considering frame #17
+Considering frame #18
+Considering frame #19
+Considering frame #20
+Considering frame #21
+ Kicking out test.1 , 22
+Done finding empty frame ------
+Pinning new page to frame number 21
+Page number allocated is 7
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 22
+Considering frame #22
+Considering frame #23
+Considering frame #24
+Considering frame #25
+Considering frame #26
+Considering frame #27
+ Kicking out test.1 , 28
+Done finding empty frame ------
+Pinning new page to frame number 27
+Page number allocated is 8
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 28
+Considering frame #28
+Considering frame #29
+Considering frame #30
+Considering frame #31
+Considering frame #32
+Considering frame #33
+Considering frame #34
+Considering frame #35
+Considering frame #36
+Considering frame #37
+Considering frame #38
+Considering frame #39
+Considering frame #40
+ Kicking out test.1 , 41
+Done finding empty frame ------
+Pinning new page to frame number 40
+Page number allocated is 9
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 41
+Considering frame #41
+Considering frame #42
+Considering frame #43
+Considering frame #44
+Considering frame #45
+Considering frame #46
+Considering frame #47
+Considering frame #48
+Considering frame #49
+ Kicking out test.1 , 50
+Done finding empty frame ------
+Pinning new page to frame number 49
+Page number allocated is 10
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 50
+Considering frame #50
+Considering frame #51
+Considering frame #52
+Considering frame #53
+Considering frame #54
+Considering frame #55
+Considering frame #56
+Considering frame #57
+Considering frame #58
+Considering frame #59
+ Kicking out test.1 , 60
+Done finding empty frame ------
+Pinning new page to frame number 59
+Page number allocated is 11
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 60
+Considering frame #60
+Considering frame #61
+Considering frame #62
+Considering frame #63
+ Kicking out test.1 , 64
+Done finding empty frame ------
+Pinning new page to frame number 63
+Page number allocated is 12
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 64
+Considering frame #64
+Considering frame #65
+Considering frame #66
+Considering frame #67
+Considering frame #68
+ Kicking out test.1 , 69
+Done finding empty frame ------
+Pinning new page to frame number 68
+Page number allocated is 13
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 69
+Considering frame #69
+Considering frame #70
+Considering frame #71
+Considering frame #72
+ Kicking out test.1 , 73
+Done finding empty frame ------
+Pinning new page to frame number 72
+Page number allocated is 14
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 73
+Considering frame #73
+Considering frame #74
+Considering frame #75
+Considering frame #76
+Considering frame #77
+ Kicking out test.1 , 78
+Done finding empty frame ------
+Pinning new page to frame number 77
+Page number allocated is 15
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 78
+Considering frame #78
+Considering frame #79
+Considering frame #80
+Considering frame #81
+Considering frame #82
+ Kicking out test.1 , 83
+Done finding empty frame ------
+Pinning new page to frame number 82
+Page number allocated is 16
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 83
+Considering frame #83
+ Kicking out test.1 , 84
+Done finding empty frame ------
+Pinning new page to frame number 83
+Page number allocated is 17
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 84
+Considering frame #84
+Considering frame #85
+Considering frame #86
+ Kicking out test.1 , 87
+Done finding empty frame ------
+Pinning new page to frame number 86
+Page number allocated is 18
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 87
+Considering frame #87
+Considering frame #88
+Considering frame #89
+Considering frame #90
+ Kicking out test.1 , 91
+Done finding empty frame ------
+Pinning new page to frame number 90
+Page number allocated is 19
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 91
+Considering frame #91
+Done finding empty frame ------
+Pinning new page to frame number 91
+Page number allocated is 20
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 92
+Considering frame #92
+ Kicking out test.1 , 93
+Done finding empty frame ------
+Pinning new page to frame number 92
+Page number allocated is 21
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 93
+Considering frame #93
+ Kicking out test.1 , 94
+Done finding empty frame ------
+Pinning new page to frame number 93
+Page number allocated is 22
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 94
+Considering frame #94
+Considering frame #95
+Considering frame #96
+Considering frame #97
+Considering frame #98
+Considering frame #99
+Considering frame #0
+ Kicking out test.2 , 1
+Done finding empty frame ------
+Pinning new page to frame number 0
+Page number allocated is 23
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 1
+Considering frame #1
+ Kicking out test.3 , 1
+Done finding empty frame ------
+Pinning new page to frame number 1
+Page number allocated is 24
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 2
+Considering frame #2
+ Kicking out test.2 , 2
+Done finding empty frame ------
+Pinning new page to frame number 2
+Page number allocated is 25
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 3
+Considering frame #3
+ Kicking out test.3 , 2
+Done finding empty frame ------
+Pinning new page to frame number 3
+Page number allocated is 26
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 4
+Considering frame #4
+ Kicking out test.2 , 3
+Done finding empty frame ------
+Pinning new page to frame number 4
+Page number allocated is 27
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 5
+Considering frame #5
+ Kicking out test.3 , 3
+Done finding empty frame ------
+Pinning new page to frame number 5
+Page number allocated is 28
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 6
+Considering frame #6
+ Kicking out test.2 , 4
+Done finding empty frame ------
+Pinning new page to frame number 6
+Page number allocated is 29
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 7
+Considering frame #7
+ Kicking out test.3 , 4
+Done finding empty frame ------
+Pinning new page to frame number 7
+Page number allocated is 30
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 8
+Considering frame #8
+ Kicking out test.2 , 5
+Done finding empty frame ------
+Pinning new page to frame number 8
+Page number allocated is 31
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 9
+Considering frame #9
+ Kicking out test.3 , 5
+Done finding empty frame ------
+Pinning new page to frame number 9
+Page number allocated is 32
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 10
+Considering frame #10
+ Kicking out test.2 , 6
+Done finding empty frame ------
+Pinning new page to frame number 10
+Page number allocated is 33
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 11
+Considering frame #11
+ Kicking out test.3 , 6
+Done finding empty frame ------
+Pinning new page to frame number 11
+Page number allocated is 34
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 12
+Considering frame #12
+ Kicking out test.2 , 7
+Done finding empty frame ------
+Pinning new page to frame number 12
+Page number allocated is 35
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 13
+Considering frame #13
+ Kicking out test.3 , 7
+Done finding empty frame ------
+Pinning new page to frame number 13
+Page number allocated is 36
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 14
+Considering frame #14
+ Kicking out test.2 , 8
+Done finding empty frame ------
+Pinning new page to frame number 14
+Page number allocated is 37
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 15
+Considering frame #15
+Considering frame #16
+ Kicking out test.3 , 8
+Done finding empty frame ------
+Pinning new page to frame number 16
+Page number allocated is 38
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 17
+Considering frame #17
+ Kicking out test.2 , 9
+Done finding empty frame ------
+Pinning new page to frame number 17
+Page number allocated is 39
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 18
+Considering frame #18
+ Kicking out test.3 , 9
+Done finding empty frame ------
+Pinning new page to frame number 18
+Page number allocated is 40
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 19
+Considering frame #19
+ Kicking out test.2 , 10
+Done finding empty frame ------
+Pinning new page to frame number 19
+Page number allocated is 41
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 20
+Considering frame #20
+ Kicking out test.3 , 10
+Done finding empty frame ------
+Pinning new page to frame number 20
+Page number allocated is 42
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 21
+Considering frame #21
+Considering frame #22
+ Kicking out test.2 , 11
+Done finding empty frame ------
+Pinning new page to frame number 22
+Page number allocated is 43
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 23
+Considering frame #23
+ Kicking out test.3 , 11
+Done finding empty frame ------
+Pinning new page to frame number 23
+Page number allocated is 44
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 24
+Considering frame #24
+ Kicking out test.2 , 12
+Done finding empty frame ------
+Pinning new page to frame number 24
+Page number allocated is 45
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 25
+Considering frame #25
+ Kicking out test.3 , 12
+Done finding empty frame ------
+Pinning new page to frame number 25
+Page number allocated is 46
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 26
+Considering frame #26
+ Kicking out test.2 , 13
+Done finding empty frame ------
+Pinning new page to frame number 26
+Page number allocated is 47
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 27
+Considering frame #27
+Considering frame #28
+ Kicking out test.3 , 13
+Done finding empty frame ------
+Pinning new page to frame number 28
+Page number allocated is 48
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 29
+Considering frame #29
+ Kicking out test.2 , 14
+Done finding empty frame ------
+Pinning new page to frame number 29
+Page number allocated is 49
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 30
+Considering frame #30
+ Kicking out test.3 , 14
+Done finding empty frame ------
+Pinning new page to frame number 30
+Page number allocated is 50
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 31
+Considering frame #31
+ Kicking out test.2 , 15
+Done finding empty frame ------
+Pinning new page to frame number 31
+Page number allocated is 51
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 32
+Considering frame #32
+ Kicking out test.3 , 15
+Done finding empty frame ------
+Pinning new page to frame number 32
+Page number allocated is 52
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 33
+Considering frame #33
+ Kicking out test.2 , 16
+Done finding empty frame ------
+Pinning new page to frame number 33
+Page number allocated is 53
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 34
+Considering frame #34
+ Kicking out test.1 , 27
+Done finding empty frame ------
+Pinning new page to frame number 34
+Page number allocated is 54
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 35
+Considering frame #35
+ Kicking out test.1 , 36
+Done finding empty frame ------
+Pinning new page to frame number 35
+Page number allocated is 55
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 36
+Considering frame #36
+ Kicking out test.3 , 16
+Done finding empty frame ------
+Pinning new page to frame number 36
+Page number allocated is 56
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 37
+Considering frame #37
+ Kicking out test.2 , 17
+Done finding empty frame ------
+Pinning new page to frame number 37
+Page number allocated is 57
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 38
+Considering frame #38
+ Kicking out test.3 , 17
+Done finding empty frame ------
+Pinning new page to frame number 38
+Page number allocated is 58
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 39
+Considering frame #39
+ Kicking out test.2 , 18
+Done finding empty frame ------
+Pinning new page to frame number 39
+Page number allocated is 59
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 40
+Considering frame #40
+Considering frame #41
+ Kicking out test.3 , 18
+Done finding empty frame ------
+Pinning new page to frame number 41
+Page number allocated is 60
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 42
+Considering frame #42
+ Kicking out test.2 , 19
+Done finding empty frame ------
+Pinning new page to frame number 42
+Page number allocated is 61
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 43
+Considering frame #43
+ Kicking out test.3 , 19
+Done finding empty frame ------
+Pinning new page to frame number 43
+Page number allocated is 62
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 44
+Considering frame #44
+ Kicking out test.2 , 20
+Done finding empty frame ------
+Pinning new page to frame number 44
+Page number allocated is 63
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 45
+Considering frame #45
+ Kicking out test.1 , 37
+Done finding empty frame ------
+Pinning new page to frame number 45
+Page number allocated is 64
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 46
+Considering frame #46
+ Kicking out test.3 , 20
+Done finding empty frame ------
+Pinning new page to frame number 46
+Page number allocated is 65
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 47
+Considering frame #47
+ Kicking out test.2 , 21
+Done finding empty frame ------
+Pinning new page to frame number 47
+Page number allocated is 66
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 48
+Considering frame #48
+ Kicking out test.1 , 12
+Done finding empty frame ------
+Pinning new page to frame number 48
+Page number allocated is 67
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 49
+Considering frame #49
+Considering frame #50
+ Kicking out test.3 , 21
+Done finding empty frame ------
+Pinning new page to frame number 50
+Page number allocated is 68
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 51
+Considering frame #51
+ Kicking out test.2 , 22
+Done finding empty frame ------
+Pinning new page to frame number 51
+Page number allocated is 69
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 52
+Considering frame #52
+ Kicking out test.3 , 22
+Done finding empty frame ------
+Pinning new page to frame number 52
+Page number allocated is 70
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 53
+Considering frame #53
+ Kicking out test.2 , 23
+Done finding empty frame ------
+Pinning new page to frame number 53
+Page number allocated is 71
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 54
+Considering frame #54
+ Kicking out test.3 , 23
+Done finding empty frame ------
+Pinning new page to frame number 54
+Page number allocated is 72
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 55
+Considering frame #55
+ Kicking out test.2 , 24
+Done finding empty frame ------
+Pinning new page to frame number 55
+Page number allocated is 73
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 56
+Considering frame #56
+ Kicking out test.1 , 30
+Done finding empty frame ------
+Pinning new page to frame number 56
+Page number allocated is 74
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 57
+Considering frame #57
+ Kicking out test.3 , 24
+Done finding empty frame ------
+Pinning new page to frame number 57
+Page number allocated is 75
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 58
+Considering frame #58
+ Kicking out test.2 , 25
+Done finding empty frame ------
+Pinning new page to frame number 58
+Page number allocated is 76
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 59
+Considering frame #59
+Considering frame #60
+ Kicking out test.3 , 25
+Done finding empty frame ------
+Pinning new page to frame number 60
+Page number allocated is 77
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 61
+Considering frame #61
+ Kicking out test.2 , 26
+Done finding empty frame ------
+Pinning new page to frame number 61
+Page number allocated is 78
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 62
+Considering frame #62
+ Kicking out test.1 , 63
+Done finding empty frame ------
+Pinning new page to frame number 62
+Page number allocated is 79
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 63
+Considering frame #63
+Considering frame #64
+ Kicking out test.1 , 31
+Done finding empty frame ------
+Pinning new page to frame number 64
+Page number allocated is 80
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 65
+Considering frame #65
+ Kicking out test.3 , 26
+Done finding empty frame ------
+Pinning new page to frame number 65
+Page number allocated is 81
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 66
+Considering frame #66
+ Kicking out test.2 , 27
+Done finding empty frame ------
+Pinning new page to frame number 66
+Page number allocated is 82
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 67
+Considering frame #67
+ Kicking out test.1 , 68
+Done finding empty frame ------
+Pinning new page to frame number 67
+Page number allocated is 83
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 68
+Considering frame #68
+Considering frame #69
+ Kicking out test.3 , 27
+Done finding empty frame ------
+Pinning new page to frame number 69
+Page number allocated is 84
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 70
+Considering frame #70
+ Kicking out test.2 , 28
+Done finding empty frame ------
+Pinning new page to frame number 70
+Page number allocated is 85
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 71
+Considering frame #71
+ Kicking out test.1 , 24
+Done finding empty frame ------
+Pinning new page to frame number 71
+Page number allocated is 86
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 72
+Considering frame #72
+Considering frame #73
+ Kicking out test.3 , 28
+Done finding empty frame ------
+Pinning new page to frame number 73
+Page number allocated is 87
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 74
+Considering frame #74
+ Kicking out test.2 , 29
+Done finding empty frame ------
+Pinning new page to frame number 74
+Page number allocated is 88
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 75
+Considering frame #75
+ Kicking out test.3 , 29
+Done finding empty frame ------
+Pinning new page to frame number 75
+Page number allocated is 89
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 76
+Considering frame #76
+ Kicking out test.2 , 30
+Done finding empty frame ------
+Pinning new page to frame number 76
+Page number allocated is 90
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 77
+Considering frame #77
+Considering frame #78
+ Kicking out test.3 , 30
+Done finding empty frame ------
+Pinning new page to frame number 78
+Page number allocated is 91
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 79
+Considering frame #79
+ Kicking out test.2 , 31
+Done finding empty frame ------
+Pinning new page to frame number 79
+Page number allocated is 92
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 80
+Considering frame #80
+ Kicking out test.3 , 31
+Done finding empty frame ------
+Pinning new page to frame number 80
+Page number allocated is 93
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 81
+Considering frame #81
+ Kicking out test.2 , 32
+Done finding empty frame ------
+Pinning new page to frame number 81
+Page number allocated is 94
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 82
+Considering frame #82
+Considering frame #83
+Considering frame #84
+ Kicking out test.1 , 3
+Done finding empty frame ------
+Pinning new page to frame number 84
+Page number allocated is 95
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 85
+Considering frame #85
+ Kicking out test.3 , 32
+Done finding empty frame ------
+Pinning new page to frame number 85
+Page number allocated is 96
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 86
+Considering frame #86
+Considering frame #87
+ Kicking out test.2 , 33
+Done finding empty frame ------
+Pinning new page to frame number 87
+Page number allocated is 97
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 88
+Considering frame #88
+ Kicking out test.1 , 23
+Done finding empty frame ------
+Pinning new page to frame number 88
+Page number allocated is 98
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 89
+Considering frame #89
+ Kicking out test.3 , 33
+Done finding empty frame ------
+Pinning new page to frame number 89
+Page number allocated is 99
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 90
+Considering frame #90
+Considering frame #91
+Considering frame #92
+Considering frame #93
+Considering frame #94
+ Kicking out test.4 , 1
+Done finding empty frame ------
+Pinning new page to frame number 94
+Page number allocated is 100
+----------------------
+Trying to find empty frame ------
+ Clock hand at the starting position 95
+Considering frame #95
+Considering frame #96
+Considering frame #97
+Considering frame #98
+Considering frame #99
+Considering frame #0
+Considering frame #1
+Considering frame #2
+Considering frame #3
+Considering frame #4
+Considering frame #5
+Considering frame #6
+Considering frame #7
+Considering frame #8
+Considering frame #9
+Considering frame #10
+Considering frame #11
+Considering frame #12
+Considering frame #13
+Considering frame #14
+Considering frame #15
+Considering frame #16
+Considering frame #17
+Considering frame #18
+Considering frame #19
+Considering frame #20
+Considering frame #21
+Considering frame #22
+Considering frame #23
+Considering frame #24
+Considering frame #25
+Considering frame #26
+Considering frame #27
+Considering frame #28
+Considering frame #29
+Considering frame #30
+Considering frame #31
+Considering frame #32
+Considering frame #33
+Considering frame #34
+Considering frame #35
+Considering frame #36
+Considering frame #37
+Considering frame #38
+Considering frame #39
+Considering frame #40
+Considering frame #41
+Considering frame #42
+Considering frame #43
+Considering frame #44
+Considering frame #45
+Considering frame #46
+Considering frame #47
+Considering frame #48
+Considering frame #49
+Considering frame #50
+Considering frame #51
+Considering frame #52
+Considering frame #53
+Considering frame #54
+Considering frame #55
+Considering frame #56
+Considering frame #57
+Considering frame #58
+Considering frame #59
+Considering frame #60
+Considering frame #61
+Considering frame #62
+Considering frame #63
+Considering frame #64
+Considering frame #65
+Considering frame #66
+Considering frame #67
+Considering frame #68
+Considering frame #69
+Considering frame #70
+Considering frame #71
+Considering frame #72
+Considering frame #73
+Considering frame #74
+Considering frame #75
+Considering frame #76
+Considering frame #77
+Considering frame #78
+Considering frame #79
+Considering frame #80
+Considering frame #81
+Considering frame #82
+Considering frame #83
+Considering frame #84
+Considering frame #85
+Considering frame #86
+Considering frame #87
+Considering frame #88
+Considering frame #89
+Considering frame #90
+Considering frame #91
+Considering frame #92
+Considering frame #93
+Considering frame #94
+Considering frame #95
+Considering frame #96
+Considering frame #97
+Considering frame #98
+Considering frame #99
+Considering frame #0
+Considering frame #1
+Considering frame #2
+Considering frame #3
+Considering frame #4
+Considering frame #5
+Considering frame #6
+Considering frame #7
+Considering frame #8
+Considering frame #9
+Considering frame #10
+Considering frame #11
+Considering frame #12
+Considering frame #13
+Considering frame #14
+Considering frame #15
+Considering frame #16
+Considering frame #17
+Considering frame #18
+Considering frame #19
+Considering frame #20
+Considering frame #21
+Considering frame #22
+Considering frame #23
+Considering frame #24
+Considering frame #25
+Considering frame #26
+Considering frame #27
+Considering frame #28
+Considering frame #29
+Considering frame #30
+Considering frame #31
+Considering frame #32
+Considering frame #33
+Considering frame #34
+Considering frame #35
+Considering frame #36
+Considering frame #37
+Considering frame #38
+Considering frame #39
+Considering frame #40
+Considering frame #41
+Considering frame #42
+Considering frame #43
+Considering frame #44
+Considering frame #45
+Considering frame #46
+Considering frame #47
+Considering frame #48
+Considering frame #49
+Considering frame #50
+Considering frame #51
+Considering frame #52
+Considering frame #53
+Considering frame #54
+Considering frame #55
+Considering frame #56
+Considering frame #57
+Considering frame #58
+Considering frame #59
+Considering frame #60
+Considering frame #61
+Considering frame #62
+Considering frame #63
+Considering frame #64
+Considering frame #65
+Considering frame #66
+Considering frame #67
+Considering frame #68
+Considering frame #69
+Considering frame #70
+Considering frame #71
+Considering frame #72
+Considering frame #73
+ ******Clock hand at the starting position again*******95Test 5 passed
+Trying to find empty frame ------
+ Clock hand at the starting position 74
+Considering frame #74
+ Kicking out test.5 , 88
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 75
+Considering frame #75
+ Kicking out test.5 , 89
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 76
+Considering frame #76
+ Kicking out test.5 , 90
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 77
+Considering frame #77
+ Kicking out test.5 , 15
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 78
+Considering frame #78
+ Kicking out test.5 , 91
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 79
+Considering frame #79
+ Kicking out test.5 , 92
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 80
+Considering frame #80
+ Kicking out test.5 , 93
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 81
+Considering frame #81
+ Kicking out test.5 , 94
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 82
+Considering frame #82
+ Kicking out test.5 , 16
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 83
+Considering frame #83
+ Kicking out test.5 , 17
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 84
+Considering frame #84
+ Kicking out test.5 , 95
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 85
+Considering frame #85
+ Kicking out test.5 , 96
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 86
+Considering frame #86
+ Kicking out test.5 , 18
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 87
+Considering frame #87
+ Kicking out test.5 , 97
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 88
+Considering frame #88
+ Kicking out test.5 , 98
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 89
+Considering frame #89
+ Kicking out test.5 , 99
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 90
+Considering frame #90
+ Kicking out test.5 , 19
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 91
+Considering frame #91
+ Kicking out test.5 , 20
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 92
+Considering frame #92
+ Kicking out test.5 , 21
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 93
+Considering frame #93
+ Kicking out test.5 , 22
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 94
+Considering frame #94
+ Kicking out test.5 , 100
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 95
+Considering frame #95
+ Kicking out test.5 , 1
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 96
+Considering frame #96
+ Kicking out test.5 , 2
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 97
+Considering frame #97
+ Kicking out test.5 , 3
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 98
+Considering frame #98
+ Kicking out test.5 , 4
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 99
+Considering frame #99
+ Kicking out test.5 , 5
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 0
+Considering frame #0
+ Kicking out test.5 , 23
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 1
+Considering frame #1
+ Kicking out test.5 , 24
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 2
+Considering frame #2
+ Kicking out test.5 , 25
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 3
+Considering frame #3
+ Kicking out test.5 , 26
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 4
+Considering frame #4
+ Kicking out test.5 , 27
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 5
+Considering frame #5
+ Kicking out test.5 , 28
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 6
+Considering frame #6
+ Kicking out test.5 , 29
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 7
+Considering frame #7
+ Kicking out test.5 , 30
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 8
+Considering frame #8
+ Kicking out test.5 , 31
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 9
+Considering frame #9
+ Kicking out test.5 , 32
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 10
+Considering frame #10
+ Kicking out test.5 , 33
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 11
+Considering frame #11
+ Kicking out test.5 , 34
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 12
+Considering frame #12
+ Kicking out test.5 , 35
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 13
+Considering frame #13
+ Kicking out test.5 , 36
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 14
+Considering frame #14
+ Kicking out test.5 , 37
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 15
+Considering frame #15
+ Kicking out test.5 , 6
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 16
+Considering frame #16
+ Kicking out test.5 , 38
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 17
+Considering frame #17
+ Kicking out test.5 , 39
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 18
+Considering frame #18
+ Kicking out test.5 , 40
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 19
+Considering frame #19
+ Kicking out test.5 , 41
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 20
+Considering frame #20
+ Kicking out test.5 , 42
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 21
+Considering frame #21
+ Kicking out test.5 , 7
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 22
+Considering frame #22
+ Kicking out test.5 , 43
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 23
+Considering frame #23
+ Kicking out test.5 , 44
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 24
+Considering frame #24
+ Kicking out test.5 , 45
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 25
+Considering frame #25
+ Kicking out test.5 , 46
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 26
+Considering frame #26
+ Kicking out test.5 , 47
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 27
+Considering frame #27
+ Kicking out test.5 , 8
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 28
+Considering frame #28
+ Kicking out test.5 , 48
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 29
+Considering frame #29
+ Kicking out test.5 , 49
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 30
+Considering frame #30
+ Kicking out test.5 , 50
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 31
+Considering frame #31
+ Kicking out test.5 , 51
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 32
+Considering frame #32
+ Kicking out test.5 , 52
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 33
+Considering frame #33
+ Kicking out test.5 , 53
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 34
+Considering frame #34
+ Kicking out test.5 , 54
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 35
+Considering frame #35
+ Kicking out test.5 , 55
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 36
+Considering frame #36
+ Kicking out test.5 , 56
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 37
+Considering frame #37
+ Kicking out test.5 , 57
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 38
+Considering frame #38
+ Kicking out test.5 , 58
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 39
+Considering frame #39
+ Kicking out test.5 , 59
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 40
+Considering frame #40
+ Kicking out test.5 , 9
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 41
+Considering frame #41
+ Kicking out test.5 , 60
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 42
+Considering frame #42
+ Kicking out test.5 , 61
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 43
+Considering frame #43
+ Kicking out test.5 , 62
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 44
+Considering frame #44
+ Kicking out test.5 , 63
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 45
+Considering frame #45
+ Kicking out test.5 , 64
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 46
+Considering frame #46
+ Kicking out test.5 , 65
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 47
+Considering frame #47
+ Kicking out test.5 , 66
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 48
+Considering frame #48
+ Kicking out test.5 , 67
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 49
+Considering frame #49
+ Kicking out test.5 , 10
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 50
+Considering frame #50
+ Kicking out test.5 , 68
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 51
+Considering frame #51
+ Kicking out test.5 , 69
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 52
+Considering frame #52
+ Kicking out test.5 , 70
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 53
+Considering frame #53
+ Kicking out test.5 , 71
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 54
+Considering frame #54
+ Kicking out test.5 , 72
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 55
+Considering frame #55
+ Kicking out test.5 , 73
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 56
+Considering frame #56
+ Kicking out test.5 , 74
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 57
+Considering frame #57
+ Kicking out test.5 , 75
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 58
+Considering frame #58
+ Kicking out test.5 , 76
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 59
+Considering frame #59
+ Kicking out test.5 , 11
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 60
+Considering frame #60
+ Kicking out test.5 , 77
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 61
+Considering frame #61
+ Kicking out test.5 , 78
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 62
+Considering frame #62
+ Kicking out test.5 , 79
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 63
+Considering frame #63
+ Kicking out test.5 , 12
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 64
+Considering frame #64
+ Kicking out test.5 , 80
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 65
+Considering frame #65
+ Kicking out test.5 , 81
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 66
+Considering frame #66
+ Kicking out test.5 , 82
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 67
+Considering frame #67
+ Kicking out test.5 , 83
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 68
+Considering frame #68
+ Kicking out test.5 , 13
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 69
+Considering frame #69
+ Kicking out test.5 , 84
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 70
+Considering frame #70
+ Kicking out test.5 , 85
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 71
+Considering frame #71
+ Kicking out test.5 , 86
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 72
+Considering frame #72
+ Kicking out test.5 , 14
+Done finding empty frame ------
+Trying to find empty frame ------
+ Clock hand at the starting position 73
+Considering frame #73
+ Kicking out test.5 , 87
+Done finding empty frame ------
+Test 6 passed
 
 Passed all tests.

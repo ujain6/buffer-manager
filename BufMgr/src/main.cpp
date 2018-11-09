@@ -12,7 +12,7 @@
 #include "exceptions/page_not_pinned_exception.h"
 #include "exceptions/page_pinned_exception.h"
 #include "exceptions/buffer_exceeded_exception.h"
-
+using namespace std;
 #define PRINT_ERROR(str) \
 { \
 	std::cerr << "On Line No:" << __LINE__ << "\n"; \
@@ -140,12 +140,14 @@ void testBufMgr()
 	//Test buffer manager
 	//Comment tests which you do not wish to run now. Tests are dependent on their preceding tests. So, they have to be run in the following order.
 	//Commenting  a particular test requires commenting all tests that follow it else those tests would fail.
-	//test1();
-	//test2();
-	//test3();
-	//test4();
-	//test5();
+	test1();
+	test2();
+	test3();
+	test4();
+	test5();
 	test6();
+
+	delete bufMgr;
 
 	//Close files before deleting them
 	file1.~File();
@@ -161,7 +163,7 @@ void testBufMgr()
 	File::remove(filename4);
 	File::remove(filename5);
 
-	delete bufMgr;
+
 
 	std::cout << "\n" << "Passed all tests." << "\n";
 }
@@ -231,7 +233,7 @@ void test2()
 
 		bufMgr->unPinPage(file1ptr, pageno1, false);
 	}
-
+cout<<"Error here"<<endl;
 	for (i = 0; i < num/3; i++) {
 		bufMgr->unPinPage(file2ptr, i+1, true);
 		bufMgr->unPinPage(file2ptr, i+1, true);
