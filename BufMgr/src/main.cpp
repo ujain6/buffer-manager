@@ -36,7 +36,6 @@ void test3();
 void test4();
 void test5();
 void test6();
-void test7();
 void testBufMgr();
 
 int main()
@@ -141,13 +140,12 @@ void testBufMgr()
 	//Test buffer manager
 	//Comment tests which you do not wish to run now. Tests are dependent on their preceding tests. So, they have to be run in the following order.
 	//Commenting  a particular test requires commenting all tests that follow it else those tests would fail.
-	// test1();
-	// test2();
-	// test3();
-	// test4();
-	// test5();
-	// test6();
-	test7();
+	 test1();
+	 test2();
+	 test3();
+	 test4();
+	 test5();
+	 test6();
 	//Create a new object of bufMgr
 
 	delete bufMgr;
@@ -328,23 +326,3 @@ void test6()
 	bufMgr->flushFile(file1ptr);
 }
 //Flushing pages with bad data
-void test7(){
-
-	// //Read 5 pages of file 1
-	for(i = 1; i <= 10; i++){
-		badgerdb::Page p;
-		//Read page 1 from this file
-		bufMgr->readPage(file1ptr, i, page);
-		sprintf((char*)tmpbuf, "test.2 Page %d %7.1f", pageno2, (float)pageno2);
-		rid2 = page2->insertRecord(tmpbuf);
-		cout<<"Reading page " << i << " of file " << file1ptr->filename();
-
-    //Keep inserting record until exception Thrown
-		try{
-
-		}
-		catch()
-
-	}
-
-}
