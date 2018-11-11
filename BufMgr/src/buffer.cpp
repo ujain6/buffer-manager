@@ -68,7 +68,7 @@ void BufMgr::allocBuf(FrameId & frame)
   cout<<"Trying to find empty frame ------" << endl;
   //Keep looking for an empty frame, if after a sweep, all pages in memory
 	//are pinned, throw the BufferExceededException
-	FrameId start = (clockHand + 1)%numBufs;
+	FrameId start = (clockHand + 1) % numBufs;
 	int count = 0;
 	cout <<" Clock hand at the starting position " << start << endl;
 	std::uint32_t numPinnedPages = 0;
@@ -151,7 +151,7 @@ void BufMgr::readPage(File* file, const PageId pageNo, Page*& page)
 	{
 		//reading page from disk into buffer pool frame
 		allocBuf(frameNo);
-		Page p = file->readPage(pageNo);
+		badgerdb::Page p = file->readPage(pageNo);
 		bufPool[frameNo] = p;
 		hashTable->insert(file, pageNo, frameNo);
 		bufDescTable[frameNo].Set(file, pageNo);
@@ -224,7 +224,7 @@ void BufMgr::flushFile(const File* file)
 void BufMgr::allocPage(File* file, PageId &pageNo, Page*& page)
 {
 	FrameId frameNo;
-	Page p = file->allocatePage();
+	badgerdb::Page p = file->allocatePage();
 	allocBuf(frameNo);
 	cout << "Pinning new page to frame number " << frameNo << endl;
 	//Assign the corresponding page to the frameNo
