@@ -146,7 +146,6 @@ void testBufMgr()
 	 test4();
 	 test5();
 	 test6();
-	//Create a new object of bufMgr
 
 	delete bufMgr;
 
